@@ -2,3 +2,4 @@ Voici ce que l'utilisateur bis a écrit
 Utilisateur original a ajouté une ligne
 
 Ligne dans main
+Ligne dans new-branch-feature
